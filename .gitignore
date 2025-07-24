@@ -1,0 +1,13 @@
+# Bytecode
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Virtualenv
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
