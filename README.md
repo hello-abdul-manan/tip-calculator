@@ -22,7 +22,7 @@ git clone https://github.com/hello-abdul-manan/tip-calculator
 cd tip-calculator/src
 
 # Step 3: Run the program
-python tip_calculator.py
+python main.py
 ```
 
 ## Author
